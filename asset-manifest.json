@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/callmeVineeth/devfinder.git/static/css/main.b37befed.css",
+    "main.js": "/callmeVineeth/devfinder.git/static/js/main.aaf8548e.js",
+    "index.html": "/callmeVineeth/devfinder.git/index.html",
+    "main.b37befed.css.map": "/callmeVineeth/devfinder.git/static/css/main.b37befed.css.map",
+    "main.aaf8548e.js.map": "/callmeVineeth/devfinder.git/static/js/main.aaf8548e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b37befed.css",
+    "static/js/main.aaf8548e.js"
+  ]
+}
