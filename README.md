@@ -1,5 +1,10 @@
 #About Project
+
 This is a simple application developed with ReactJS for finding github accounts of developers with their usernames.
+This site will show Github account informations  like Username,Created date, followers and followings count , public repos etc..
+Help employers to find potential candidates Github account by simply searching their usernames.
+Toggle between modes - Dark & Light modes
+
 
  Check the live site here : (https://callmevineeth.github.io/devfinder/)
  
@@ -11,13 +16,33 @@ This is a simple application developed with ReactJS for finding github accounts 
 
 
 
-#Technologies Used
-Created with Reactjs and typescript
-Completely build with Class Component concepts
-Used Github users api for implementing search function and retrieving data from the API.
-Implemented Dark and Light modes with state management .
+### Built with
+- ReactJs
+- React-Icons
+- TailwindCSS
+- API
+- ClassComponent Concepts
+- State management
+- Dark and Light Modes
+- Semantic HTML5 markup
+- CSS custom properties
+- JavaScript
+- Flexbox
+- Mobile-first approach
+- Google fonts
+- fontAwesome
 
-#Future Implementation
-Planning to connect with the backened api
-Will  add options for sending follow  requests directly  from the app
-UI UX improvements for make it more better
+
+
+
+### Continued development
+
+- Planning to connect with the backened api
+- Will  add options for sending follow  requests directly  from the app
+- UI UX improvements for make it more better
+
+
+
+## Author
+
+- LinkedIn - [@Vineeth P V](www.linkedin.com/in/vineeth-p-v-9216021b8)
