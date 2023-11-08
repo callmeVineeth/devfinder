@@ -5,11 +5,11 @@ This is a simple application developed with ReactJS for finding github accounts 
  
 #Screenshots
 
+![Screenshot (66)](https://github.com/callmeVineeth/devfinder/assets/130293688/3b0930d1-8428-496b-9918-e131fb1f85c2)
+![Screenshot (68)](https://github.com/callmeVineeth/devfinder/assets/130293688/4a8ef8c4-443b-4158-bb1d-773e91fdac9f)
+![](https://github.com/callmeVineeth/devfinder/assets/130293688/2e274940-3f42-488e-bfbd-08c54dae20ba)
 
-![Screenshot (68)](https://github.com/callmeVineeth/devfinder/assets/130293688/4a8ef8c4-443b-4158-bb1d-773e91fdac9f)![Screenshot (66)](https://github.com/callmeVineeth/devfinder/assets/130293688/3b0930d1-8428-496b-9918-e131fb1f85c2)
-![Screenshot (67)](https://github.com/callmeVineeth/devfinder/assets/130293688/2e274940-3f42-488e-bfbd-08c54dae20ba)
-
-![Screenshot (69)](https://github.com/callmeVineeth/devfinder/assets/130293688/43fc0265-d1dc-449d-a834-9efe469af188)
+![](https://github.com/callmeVineeth/devfinder/assets/130293688/43fc0265-d1dc-449d-a834-9efe469af188)
 
 
 
