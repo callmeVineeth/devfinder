@@ -9,6 +9,10 @@ This is a simple application developed with ReactJS for finding github accounts 
 ![](/src/Images/Screenshot(68).png)
 ![]('./src/Images/Screenshot(69).png')
 
+![Screenshot (68)](https://github.com/callmeVineeth/devfinder/assets/130293688/4a8ef8c4-443b-4158-bb1d-773e91fdac9f)
+![Screenshot (69)](https://github.com/callmeVineeth/devfinder/assets/130293688/43fc0265-d1dc-449d-a834-9efe469af188)
+
+
 
 #Technologies Used
 Created with Reactjs and typescript
