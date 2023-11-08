@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/callmeVineeth/devfinder.git/static/css/main.b37befed.css",
-    "main.js": "/callmeVineeth/devfinder.git/static/js/main.08d3db6a.js",
-    "index.html": "/callmeVineeth/devfinder.git/index.html",
-    "main.b37befed.css.map": "/callmeVineeth/devfinder.git/static/css/main.b37befed.css.map",
-    "main.08d3db6a.js.map": "/callmeVineeth/devfinder.git/static/js/main.08d3db6a.js.map"
+    "main.css": "/devfinder/static/css/main.b37befed.css",
+    "main.js": "/devfinder/static/js/main.08d3db6a.js",
+    "index.html": "/devfinder/index.html",
+    "main.b37befed.css.map": "/devfinder/static/css/main.b37befed.css.map",
+    "main.08d3db6a.js.map": "/devfinder/static/js/main.08d3db6a.js.map"
   },
   "entrypoints": [
     "static/css/main.b37befed.css",
