@@ -4,10 +4,10 @@ This is a simple application developed with ReactJS for finding github accounts 
  Check the live site here : (https://callmevineeth.github.io/devfinder/)
  
 #Screenshots
-![](/src/Images/Screenshot(66).png)
+![](src/Images/Screenshot(66).png)
 ![](./src/Images/Screenshot(67).png)
-![](src/Images/Screenshot(68).png)
-![](./src/Images/Screenshot(69).png)
+![](/src/Images/Screenshot(68).png)
+![]('./src/Images/Screenshot(69).png')
 
 
 #Technologies Used
